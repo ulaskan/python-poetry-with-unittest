@@ -1,6 +1,7 @@
 # Python poetry with unittest
 This is a boilerplate for building dockerised python projects using packaging with poetry including python 
-unit testing. 
+unit testing. The project is provided with simple python code and a unit test that goes with it. Please 
+delete those as required and implement your own code.
 
 To run the code we use the Makefile. The idea is to build the code using
 the local directories as mount volumes to the docker container. 
