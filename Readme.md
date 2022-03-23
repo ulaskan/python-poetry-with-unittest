@@ -22,7 +22,7 @@ To run the code execute the below command
   `poetry run python src/main.py`   (or use the alias: `pr src/main.py`) 
 
 
-## How to run unit tests
+## How to run unit tests:
 Running `make test` will restart the container, execute the tests and exit.
 
 Alternatively from inside the container in the root folder of the project execute the following
